@@ -31,3 +31,12 @@ Along with everything from the above two levels :
 
 - Implement the Signup and Login/Logout functionality. You have to create user-auth schema in the database.
 - Implement a feature to Search and Filter Tasks based on Date-time, Priority and Labels, and a combination of at least two or more.
+
+### Instructions to download
+1) Extract the rar file. 
+2) In the eclipse ide (eclipse ide for java ee developers) import it as existing maven project. 
+3) Run TodoApplication.java as java application (this will also start the tomcat server) 
+4) Start browser and give url : http://localhost:8888/login. 
+5) Registration should be done first and then proceed to login. 
+6) Click on add tasks to add tasks. 
+7) View tasks using list task and search them using search tasks.
